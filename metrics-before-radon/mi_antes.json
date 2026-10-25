@@ -1,0 +1,678 @@
+{
+  "pm/shell.py": {
+    "mi": 66.85081671790475,
+    "rank": "A"
+  },
+  "pm/plugins_state.py": {
+    "mi": 52.40634100002698,
+    "rank": "A"
+  },
+  "pm/recovery.py": {
+    "mi": 64.60266308963634,
+    "rank": "A"
+  },
+  "pm/cli.py": {
+    "mi": 4.725187381658166,
+    "rank": "C"
+  },
+  "pm/progress.py": {
+    "mi": 49.6072189447543,
+    "rank": "A"
+  },
+  "pm/packages.py": {
+    "mi": 7.4815168080592445,
+    "rank": "C"
+  },
+  "pm/_uv.py": {
+    "mi": 62.60085604227166,
+    "rank": "A"
+  },
+  "pm/native_build.py": {
+    "mi": 78.6654365343724,
+    "rank": "A"
+  },
+  "pm/worker.py": {
+    "mi": 48.58445978485046,
+    "rank": "A"
+  },
+  "pm/environments_adopt.py": {
+    "mi": 60.62219089002002,
+    "rank": "A"
+  },
+  "pm/install.py": {
+    "mi": 0.8045081075026824,
+    "rank": "C"
+  },
+  "pm/build_operations.py": {
+    "mi": 39.78072485488142,
+    "rank": "A"
+  },
+  "pm/_marker_eval.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pm/package.py": {
+    "mi": 45.60543017443885,
+    "rank": "A"
+  },
+  "pm/runtime_stage.py": {
+    "mi": 71.10629761846224,
+    "rank": "A"
+  },
+  "pm/testenv.py": {
+    "mi": 89.05717368963572,
+    "rank": "A"
+  },
+  "pm/plugin_declarations.py": {
+    "mi": 48.0536297391236,
+    "rank": "A"
+  },
+  "pm/build_env.py": {
+    "mi": 36.663730237172416,
+    "rank": "A"
+  },
+  "pm/termux_libs.py": {
+    "mi": 55.649799966476685,
+    "rank": "A"
+  },
+  "pm/receipt.py": {
+    "mi": 59.1772306984981,
+    "rank": "A"
+  },
+  "pm/defaults.py": {
+    "mi": 72.04787089593937,
+    "rank": "A"
+  },
+  "pm/network.py": {
+    "mi": 55.60896370486859,
+    "rank": "A"
+  },
+  "pm/launch.py": {
+    "mi": 92.57852468583042,
+    "rank": "A"
+  },
+  "pm/environment.py": {
+    "mi": 35.976310710499334,
+    "rank": "A"
+  },
+  "pm/filesystem.py": {
+    "mi": 57.80130239127863,
+    "rank": "A"
+  },
+  "pm/lock.py": {
+    "mi": 38.62768629479869,
+    "rank": "A"
+  },
+  "pm/environments.py": {
+    "mi": 39.7101414063906,
+    "rank": "A"
+  },
+  "pm/plugin_inputs.py": {
+    "mi": 64.18579011902844,
+    "rank": "A"
+  },
+  "pm/extras.py": {
+    "mi": 52.056350834955126,
+    "rank": "A"
+  },
+  "pm/workspace.py": {
+    "mi": 38.34893302803117,
+    "rank": "A"
+  },
+  "pm/artifact_mirror.py": {
+    "mi": 69.21187379174872,
+    "rank": "A"
+  },
+  "pm/security_packages.py": {
+    "mi": 53.39117790775963,
+    "rank": "A"
+  },
+  "pm/client.py": {
+    "mi": 28.992729340036767,
+    "rank": "A"
+  },
+  "pm/features.py": {
+    "mi": 69.20981489920447,
+    "rank": "A"
+  },
+  "pm/uv_cache_prune.py": {
+    "mi": 76.7998920142997,
+    "rank": "A"
+  },
+  "pm/update.py": {
+    "mi": 37.972726851902046,
+    "rank": "A"
+  },
+  "pm/libatomic.py": {
+    "mi": 57.83654692835882,
+    "rank": "A"
+  },
+  "pm/operations.py": {
+    "mi": 39.13509230769042,
+    "rank": "A"
+  },
+  "pm/store.py": {
+    "mi": 32.45107014457251,
+    "rank": "A"
+  },
+  "pm/worker_operations.py": {
+    "mi": 90.60295905042939,
+    "rank": "A"
+  },
+  "pm/download_state.py": {
+    "mi": 60.79007618051216,
+    "rank": "A"
+  },
+  "pm/runtime.py": {
+    "mi": 43.96861523448963,
+    "rank": "A"
+  },
+  "pm/index_config.py": {
+    "mi": 58.761281903615554,
+    "rank": "A"
+  },
+  "pm/__init__.py": {
+    "mi": 92.39837637004392,
+    "rank": "A"
+  },
+  "pm/downloader.py": {
+    "mi": 17.40537948059763,
+    "rank": "B"
+  },
+  "pm/registry.py": {
+    "mi": 47.78067755247975,
+    "rank": "A"
+  },
+  "pm/paths.py": {
+    "mi": 80.53300569543627,
+    "rank": "A"
+  },
+  "pm/plugin_eviction.py": {
+    "mi": 50.01617968619482,
+    "rank": "A"
+  },
+  "pm/publication.py": {
+    "mi": 36.434079670653304,
+    "rank": "A"
+  },
+  "tests/pm/test_extras.py": {
+    "mi": 42.696555818947004,
+    "rank": "A"
+  },
+  "tests/pm/activation_support.py": {
+    "mi": 53.74659483523357,
+    "rank": "A"
+  },
+  "tests/pm/test_npm_dist_tags.py": {
+    "mi": 71.0974179568851,
+    "rank": "A"
+  },
+  "tests/pm/test_update_dependency_legs.py": {
+    "mi": 31.719228139341375,
+    "rank": "A"
+  },
+  "tests/pm/test_held_entry_windows_live.py": {
+    "mi": 65.55983336778532,
+    "rank": "A"
+  },
+  "tests/pm/test_update_artifact_refresh.py": {
+    "mi": 43.23304382849359,
+    "rank": "A"
+  },
+  "tests/pm/test_store_resume.py": {
+    "mi": 71.61263648834843,
+    "rank": "A"
+  },
+  "tests/pm/test_uv_python.py": {
+    "mi": 22.333052966173955,
+    "rank": "A"
+  },
+  "tests/pm/test_uv_cache_seed.py": {
+    "mi": 72.42719251477169,
+    "rank": "A"
+  },
+  "tests/pm/test_worker.py": {
+    "mi": 9.199355627037143,
+    "rank": "B"
+  },
+  "tests/pm/test_node_resolution.py": {
+    "mi": 20.931352661947052,
+    "rank": "A"
+  },
+  "tests/pm/test_store_extract.py": {
+    "mi": 51.76319355618334,
+    "rank": "A"
+  },
+  "tests/pm/test_node_release_candidates.py": {
+    "mi": 70.77037628329926,
+    "rank": "A"
+  },
+  "tests/pm/test_pm_authority.py": {
+    "mi": 26.42935778718991,
+    "rank": "A"
+  },
+  "tests/pm/test_store_lock_wait.py": {
+    "mi": 52.665000032650624,
+    "rank": "A"
+  },
+  "tests/pm/test_pm_core.py": {
+    "mi": 9.836746470293058,
+    "rank": "B"
+  },
+  "tests/pm/test_runtime_wheelhouse.py": {
+    "mi": 37.23469584979354,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_journal_concurrent_edit.py": {
+    "mi": 57.77429414250991,
+    "rank": "A"
+  },
+  "tests/pm/test_security_consumers.py": {
+    "mi": 23.63567192301592,
+    "rank": "A"
+  },
+  "tests/pm/test_workspace_build_inputs.py": {
+    "mi": 28.63384457927747,
+    "rank": "A"
+  },
+  "tests/pm/test_receipt.py": {
+    "mi": 38.54005225343554,
+    "rank": "A"
+  },
+  "tests/pm/test_worker_stdio.py": {
+    "mi": 64.50576921380218,
+    "rank": "A"
+  },
+  "tests/pm/test_update.py": {
+    "mi": 60.207152011103474,
+    "rank": "A"
+  },
+  "tests/pm/test_generation_durability.py": {
+    "mi": 62.459408215067484,
+    "rank": "A"
+  },
+  "tests/pm/test_cold_runtime_e2e.py": {
+    "mi": 35.0960916994618,
+    "rank": "A"
+  },
+  "tests/pm/test_archive_safety.py": {
+    "mi": 40.809283333564196,
+    "rank": "A"
+  },
+  "tests/pm/test_install_state_permissions.py": {
+    "mi": 41.04965554887842,
+    "rank": "A"
+  },
+  "tests/pm/test_agent_browser_package.py": {
+    "mi": 70.61319262758254,
+    "rank": "A"
+  },
+  "tests/pm/test_cua_driver_package.py": {
+    "mi": 44.85530717536344,
+    "rank": "A"
+  },
+  "tests/pm/test_worker_receipts.py": {
+    "mi": 59.73964133755189,
+    "rank": "A"
+  },
+  "tests/pm/test_store_extensions.py": {
+    "mi": 55.061612006571615,
+    "rank": "A"
+  },
+  "tests/pm/test_venv_sync_ambient_config.py": {
+    "mi": 47.6705489311095,
+    "rank": "A"
+  },
+  "tests/pm/test_pm_musl.py": {
+    "mi": 67.69863349345923,
+    "rank": "A"
+  },
+  "tests/pm/test_update_auth_scope.py": {
+    "mi": 50.73027907440135,
+    "rank": "A"
+  },
+  "tests/pm/test_lazy_install_policy.py": {
+    "mi": 62.118228876520455,
+    "rank": "A"
+  },
+  "tests/pm/test_download_mirrors.py": {
+    "mi": 39.82108498925182,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_boot_gc.py": {
+    "mi": 54.5920503965608,
+    "rank": "A"
+  },
+  "tests/pm/test_environment_build.py": {
+    "mi": 10.02371452180171,
+    "rank": "B"
+  },
+  "tests/pm/test_activate_scripts.py": {
+    "mi": 57.69204936427974,
+    "rank": "A"
+  },
+  "tests/pm/test_source_launcher_stages.py": {
+    "mi": 53.899491557076914,
+    "rank": "A"
+  },
+  "tests/pm/test_darwin_build.py": {
+    "mi": 51.84604139574592,
+    "rank": "A"
+  },
+  "tests/pm/test_node_libatomic_install_boundary.py": {
+    "mi": 42.82512254803045,
+    "rank": "A"
+  },
+  "tests/pm/test_lease_reselection.py": {
+    "mi": 53.47033098107943,
+    "rank": "A"
+  },
+  "tests/pm/test_recovery.py": {
+    "mi": 31.219150584505044,
+    "rank": "A"
+  },
+  "tests/pm/test_plugin_inputs.py": {
+    "mi": 73.1756852057256,
+    "rank": "A"
+  },
+  "tests/pm/test_setup_lock_format.py": {
+    "mi": 53.281768212432844,
+    "rank": "A"
+  },
+  "tests/pm/test_lockfile_publication.py": {
+    "mi": 43.8455528940357,
+    "rank": "A"
+  },
+  "tests/pm/test_downloader_integrity.py": {
+    "mi": 30.21386412318913,
+    "rank": "A"
+  },
+  "tests/pm/test_chromium.py": {
+    "mi": 50.80725035102953,
+    "rank": "A"
+  },
+  "tests/pm/test_activate_fish.py": {
+    "mi": 70.11522899135517,
+    "rank": "A"
+  },
+  "tests/pm/test_tree_digest_links.py": {
+    "mi": 44.70657745860132,
+    "rank": "A"
+  },
+  "tests/pm/test_bootstrap_import_closure.py": {
+    "mi": 60.70477019463852,
+    "rank": "A"
+  },
+  "tests/pm/test_ffmpeg_resolution.py": {
+    "mi": 66.50490831872865,
+    "rank": "A"
+  },
+  "tests/pm/test_progress.py": {
+    "mi": 52.09415338299894,
+    "rank": "A"
+  },
+  "tests/pm/test_plugin_declarations.py": {
+    "mi": 38.273654992570464,
+    "rank": "A"
+  },
+  "tests/pm/test_update_pin_isolation.py": {
+    "mi": 60.6989319873306,
+    "rank": "A"
+  },
+  "tests/pm/test_termux_libs.py": {
+    "mi": 41.14991732798513,
+    "rank": "A"
+  },
+  "tests/pm/test_pm_bionic.py": {
+    "mi": 56.50174757273532,
+    "rank": "A"
+  },
+  "tests/pm/test_activation_setup.py": {
+    "mi": 42.36150017426183,
+    "rank": "A"
+  },
+  "tests/pm/test_restart_needed.py": {
+    "mi": 72.34469249437055,
+    "rank": "A"
+  },
+  "tests/pm/test_downloader.py": {
+    "mi": 35.18674941117604,
+    "rank": "A"
+  },
+  "tests/pm/test_feature_inventory.py": {
+    "mi": 42.631858218781744,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_entrypoints.py": {
+    "mi": 35.15776402152832,
+    "rank": "A"
+  },
+  "tests/pm/test_download_progress.py": {
+    "mi": 57.15867835271471,
+    "rank": "A"
+  },
+  "tests/pm/test_plugin_survival_contract.py": {
+    "mi": 32.117814518688164,
+    "rank": "A"
+  },
+  "tests/pm/_fixtures.py": {
+    "mi": 47.80232869841503,
+    "rank": "A"
+  },
+  "tests/pm/test_python_release_identity.py": {
+    "mi": 52.245478071646595,
+    "rank": "A"
+  },
+  "tests/pm/test_artifact_mirror.py": {
+    "mi": 46.72956817164893,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_selection.py": {
+    "mi": 35.55527159670627,
+    "rank": "A"
+  },
+  "tests/pm/test_index_bridging.py": {
+    "mi": 56.35862625112232,
+    "rank": "A"
+  },
+  "tests/pm/test_features.py": {
+    "mi": 59.061871234017346,
+    "rank": "A"
+  },
+  "tests/pm/test_plugins_state.py": {
+    "mi": 38.382556707246515,
+    "rank": "A"
+  },
+  "tests/pm/test_startup_recovery.py": {
+    "mi": 41.19543236336252,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime.py": {
+    "mi": 42.977384269780984,
+    "rank": "A"
+  },
+  "tests/pm/test_npm_self_install.py": {
+    "mi": 67.72451200757003,
+    "rank": "A"
+  },
+  "tests/pm/test_install_default_closure.py": {
+    "mi": 50.03318348714771,
+    "rank": "A"
+  },
+  "tests/pm/_range_server.py": {
+    "mi": 55.797362586576924,
+    "rank": "A"
+  },
+  "tests/pm/conftest.py": {
+    "mi": 95.36205893170374,
+    "rank": "A"
+  },
+  "tests/pm/test_dmgbuild_package.py": {
+    "mi": 45.41375088624611,
+    "rank": "A"
+  },
+  "tests/pm/test_project_relock.py": {
+    "mi": 61.347975142555796,
+    "rank": "A"
+  },
+  "tests/pm/test_ripgrep_vc_runtime.py": {
+    "mi": 78.94488575646396,
+    "rank": "A"
+  },
+  "tests/pm/test_stage_only.py": {
+    "mi": 41.16360855746328,
+    "rank": "A"
+  },
+  "tests/pm/test_install_extra.py": {
+    "mi": 47.71621783634587,
+    "rank": "A"
+  },
+  "tests/pm/test_startup_activation.py": {
+    "mi": 47.06533779706736,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_bootstrap_tls.py": {
+    "mi": 33.63665185883486,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_gc.py": {
+    "mi": 47.827584100288995,
+    "rank": "A"
+  },
+  "tests/pm/test_workspace.py": {
+    "mi": 55.40736373147166,
+    "rank": "A"
+  },
+  "tests/pm/test_takeover_preparation.py": {
+    "mi": 49.1861200971228,
+    "rank": "A"
+  },
+  "tests/pm/test_no_lazy_deps.py": {
+    "mi": 65.79964905001542,
+    "rank": "A"
+  },
+  "tests/pm/test_download_retry_limits.py": {
+    "mi": 40.29166669954981,
+    "rank": "A"
+  },
+  "tests/pm/test_member_selection.py": {
+    "mi": 60.76173124555582,
+    "rank": "A"
+  },
+  "tests/pm/test_deb_safety.py": {
+    "mi": 54.15541099279418,
+    "rank": "A"
+  },
+  "tests/pm/test_node_sidecar.py": {
+    "mi": 47.031240735968694,
+    "rank": "A"
+  },
+  "tests/pm/test_uv_cache.py": {
+    "mi": 55.0438568751341,
+    "rank": "A"
+  },
+  "tests/pm/test_activation_runtime.py": {
+    "mi": 40.206281973559975,
+    "rank": "A"
+  },
+  "tests/pm/test_installed_package.py": {
+    "mi": 64.80086031240097,
+    "rank": "A"
+  },
+  "tests/pm/test_update_failure_status.py": {
+    "mi": 41.78458855682923,
+    "rank": "A"
+  },
+  "tests/pm/test_download_state.py": {
+    "mi": 39.567110954916245,
+    "rank": "A"
+  },
+  "tests/pm/test_shell_candidates.py": {
+    "mi": 71.99586229581135,
+    "rank": "A"
+  },
+  "tests/pm/test_build_operations.py": {
+    "mi": 18.495992668934818,
+    "rank": "B"
+  },
+  "tests/pm/test_windows_build_deps.py": {
+    "mi": 40.55914649918731,
+    "rank": "A"
+  },
+  "tests/pm/test_update_request_reuse.py": {
+    "mi": 33.9086840295052,
+    "rank": "A"
+  },
+  "tests/pm/test_custom_root_union.py": {
+    "mi": 48.15556985618372,
+    "rank": "A"
+  },
+  "tests/pm/test_worker_registry.py": {
+    "mi": 39.874566366669306,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_context_home.py": {
+    "mi": 44.87568981097541,
+    "rank": "A"
+  },
+  "tests/pm/test_zip_symlinks.py": {
+    "mi": 59.23446051196059,
+    "rank": "A"
+  },
+  "tests/pm/test_runtime_journal_safety.py": {
+    "mi": 58.5439265232988,
+    "rank": "A"
+  },
+  "tests/pm/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/pm/test_worker_observers.py": {
+    "mi": 52.74444891873196,
+    "rank": "A"
+  },
+  "tests/pm/test_workspace_output_encoding.py": {
+    "mi": 50.387407108383194,
+    "rank": "A"
+  },
+  "tests/pm/test_cli_progress.py": {
+    "mi": 56.66783306642392,
+    "rank": "A"
+  },
+  "tests/pm/test_download_serial_fallback.py": {
+    "mi": 63.01377977151528,
+    "rank": "A"
+  },
+  "tests/pm/test_install_download_control.py": {
+    "mi": 38.72685066977902,
+    "rank": "A"
+  },
+  "tests/pm/test_shell_discovery.py": {
+    "mi": 53.71945667311392,
+    "rank": "A"
+  },
+  "tests/pm/test_network.py": {
+    "mi": 44.29336976232308,
+    "rank": "A"
+  },
+  "tests/pm/test_source_update_launch.py": {
+    "mi": 19.102372499768215,
+    "rank": "A"
+  },
+  "tests/pm/test_environment_script.py": {
+    "mi": 65.06750393951559,
+    "rank": "A"
+  },
+  "tests/pm/test_network_retries.py": {
+    "mi": 39.267028145587076,
+    "rank": "A"
+  },
+  "tests/pm/test_llamacpp_pins.py": {
+    "mi": 69.01528217293134,
+    "rank": "A"
+  },
+  "tests/pm/test_worker_publication.py": {
+    "mi": 16.93264506929428,
+    "rank": "B"
+  }
+}
