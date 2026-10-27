@@ -183,8 +183,9 @@ def test_ensure_import_propagates_install_error(monkeypatch):
 
     monkeypatch.setattr(client, "sync_venv", boom)
     monkeypatch.setattr(extras, "available", lambda e: False)
-    with pytest.raises(pm.InstallError):
+    with pytest.raises(pm.InstallError) as exc_info:
         extras.ensure_import("fal")
+    assert "lazy installs are disabled" in str(exc_info.value)
 
 
 @pytest.mark.parametrize("failure", [None, "install", "import"])

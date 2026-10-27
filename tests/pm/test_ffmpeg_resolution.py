@@ -67,8 +67,9 @@ def test_resolved_version_fetches_its_exact_target_asset(indexes, target):
 
 @pytest.mark.parametrize("target", ["win32-x64", "win32-arm64", "linux-x64", "darwin-arm64"])
 def test_unadvertised_version_refuses_instead_of_relabelling_old_bytes(indexes, target):
-    with pytest.raises(InstallError, match="9.9.9"):
+    with pytest.raises(InstallError, match="9.9.9") as exc_info:
         Ffmpeg().fetch_url("9.9.9", target)
+    assert "9.9.9" in str(exc_info.value)
 
 
 def test_only_retained_month_end_builds_are_pinned(indexes):
