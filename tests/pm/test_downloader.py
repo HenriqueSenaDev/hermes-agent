@@ -206,6 +206,7 @@ def test_refuses_non_https_non_loopback(tmp_path):
                   partials_dir=tmp_path / "partials")
     with pytest.raises(ValueError):
         dl.run()
+    assert not (tmp_path / "x.bin").exists()
 
 
 # ── edge cases: no-Range fallback, multi-source resume, pause mid-plan ──
